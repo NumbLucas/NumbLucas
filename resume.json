@@ -8,9 +8,9 @@
     "workList": "个人作品",
     "aboutme": "自我介绍"
   },
-  "avatar": {
-    "hidden": true,
-    "shape": "circle"
+    "avatar": {
+    "src": "https://imgse.com/i/pSwQuk9",
+    "hidden": false
   },
   "profile": {
     "name": "郭威",
